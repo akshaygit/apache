@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cp -r web/copyhtml.html .
+cp -r index.html web/
