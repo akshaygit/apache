@@ -1,3 +1,4 @@
 #!/bin/bash
 
-cp -r temp web/
+cd ..
+cp -r newfile web
