@@ -1,4 +1,3 @@
 #!/bin/bash
 
-cd ..
-cp -r newfile web
+cp -r newfile web/
